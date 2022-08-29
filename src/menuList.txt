@@ -1,0 +1,71 @@
+orange,Orange Revolution,
+450 Calories
+0.5g Fat
+116g Carbs
+4g Protein,
+strawberry,Strawberry X-Treme,
+300 Calories
+0g Fat
+77g Carbs
+1g Protein,
+pineapple,Pineapple Surf,
+420 Calories
+1.5g Fat
+99g Carbs
+6g Protein,
+lemon,Lemon Twist Strawberry,
+390 Calories
+0g Fat
+97g Carbs
+1g Protein,
+banana,Banana Boat, 
+480 Calories
+6g Fat
+99g Carbs
+11g Protein,
+mango,MangoFest,
+300 Calories
+0.5g Fat
+74g Carbs
+2g Protein,
+vegan,Vegan Mango Kale,
+340 Calories
+6g Fat
+65g Carbs
+11g Protein,
+Kale,Vegan Apple Kale,
+270 Calories
+0g Fat
+70g Carbs
+2g Protein,
+chocolate,Original High Protein Chocolate,
+400 Calories
+12g Fat
+44g Carbs
+30g Protein,
+cherry,Stretch & Flex Tart Cherry,
+300 Calories
+1g Fat
+62g Carbs
+11g Protein,
+apple,Veggie Apple Kiwi Kale,
+270 Calories
+0g Fat
+70g Carbs
+2g Protein,
+blueberry,Blueberry Heaven,
+260 Calories
+1.5g Fat
+57g Carbs
+6g Protein,
+kiwi,Gold Kiwi Sunshine,
+300 Calories
+2g Fat
+79g Carbs
+1g Protein,
+coconut,Coconut Surprise,
+280 Calories
+4g Fat
+50g Carbs
+5g Protein
+
